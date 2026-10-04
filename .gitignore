@@ -1,0 +1,54 @@
+# =============================================================================
+#  Root .gitignore
+#  Repo root : c:\deepfake-detector
+#  Tracked   : .vscode/   deepfake-detector/   frontend/
+# =============================================================================
+
+# --- Guard: folders that must STAY tracked ----------------------------------
+!.vscode/
+!deepfake-detector/
+!frontend/
+
+# --- 1. Raw dataset -> never push (large / private) -------------------------
+# deepfake-detector/data/raw holds the bulk of the ~3 GB dataset.
+# Only the .gitkeep marker is committed so the folder still exists after clone.
+deepfake-detector/data/raw/*
+!deepfake-detector/data/raw/.gitkeep
+
+# --- 2. Python virtual environments -> never push (~1.6 GB) -----------------
+deepfake-detector/venv/
+venv/
+.venv/
+
+# --- 3. Python bytecode & caches -> never push ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- 4. Secrets & credentials -> never push ---------------------------------
+# deepfake-detector/secrets/kaggle.json is a real API token.
+deepfake-detector/secrets/*
+!deepfake-detector/secrets/.gitkeep
+.env
+
+# --- 5. OS / editor junk ----------------------------------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+*.log
+
+# --- 6. Optional heavy artifacts (uncomment to exclude) ---------------------
+# deepfake-detector/checkpoints/    # 541 MB trained model checkpoints
+# deepfake-detector/test_images/    # 5 MB sample images
+# deepfake-detector/models/         # ~1 MB
+# deepfake-detector/outputs/        # reports / heatmaps
+

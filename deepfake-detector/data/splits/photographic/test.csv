@@ -1,0 +1,1109 @@
+filepath,label,source,category,original_split
+/content/diffusion_local/train/REAL/4734.jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/XSSIEUOA46.jpg,fake,gan,face,valid
+/content/diffusion_local/train/FAKE/5248 (2).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/22860.jpg,real,gan,face,test
+/content/diffusion_local/train/REAL/1246 (8).jpg,real,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/portrait-faces-and-photography-french-woman-clara.jpg,real,general_ai,RealArt,train
+/content/general_ai_local/RealArt/RealArt/beautiful-nature-scenery-smartphone-wallpaper-free-photo.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/02222.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/00985.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/CTRYF3OPS7.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/32QGW0NXDD.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/11480.jpg,real,intel,mountain,train
+/content/diffusion_local/train/REAL/1234.jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/9669.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/40819.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/U1K0WXTIFO.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/A3W7QIKLJE.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/OAX6MW0BCB.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/906.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/26674.jpg,real,gan,face,valid
+/content/diffusion_local/train/REAL/0252 (5).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2745 (2).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/glacier/5775.jpg,real,intel,glacier,train
+/content/general_ai_local/RealArt/RealArt/images43.jpg,real,general_ai,RealArt,train
+/content/diffusion_local/train/FAKE/1389 (6).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1559 (10).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2933 (7).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/7200.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/1YF0TNPKDK.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/11615.jpg,real,gan,face,train
+/content/diffusion_local/train/REAL/4302 (9).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2292 (4).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/glacier/17151.jpg,real,intel,glacier,train
+/content/intel_local/seg_train/seg_train/forest/12110.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/sea/4116.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/47285.jpg,real,gan,face,valid
+/content/diffusion_local/test/FAKE/896 (8).jpg,fake,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/buildings/2236.jpg,real,intel,buildings,train
+/content/diffusion_local/train/FAKE/2476 (6).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/07IHO-LENSA-TOPART-articleLarge.jpg,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/sea/19555.jpg,real,intel,sea,train
+/content/intel_local/seg_train/seg_train/mountain/13928.jpg,real,intel,mountain,train
+/content/diffusion_local/train/FAKE/4240 (5).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/XHXFUSWLVT.jpg,fake,gan,face,test
+/content/intel_local/seg_test/seg_test/street/21573.jpg,real,intel,street,test
+/content/diffusion_local/test/FAKE/259 (9).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/1151 (5).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/WPCM9LOG53.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/P2K5S4VOCU.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/2192.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/30SQCKYYD6.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/CCMH893MMD.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/O7U011890G.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/K9RO09FF6L.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/8B67X87EKM.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/1892.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/04973.jpg,real,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/4D0B10FA-D43F-427A-8F12-084A42A52081-63ef4da8f2ef6-jpeg__700.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/BDJ116OFUQ.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/4452 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/5465 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2722 (9).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2385 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/08474.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/P4H9WF1BIY.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/AX19D37TQM.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/6LW4FTER9Q.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/LLNFYQA4R9.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/13431.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/glacier/3843.jpg,real,intel,glacier,train
+/content/diffusion_local/train/FAKE/5914.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3339 (4).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3560 (7).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2188 (7).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/8.jpg,real,intel,forest,train
+/content/diffusion_local/train/REAL/4866 (2).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/16549.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/forest/5673.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/37226.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/54SVZIRESA.jpg,fake,gan,face,train
+/content/diffusion_local/test/FAKE/455 (8).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/3885 (3).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/JUBEV8QXK7.jpg,fake,gan,face,valid
+/content/intel_local/seg_test/seg_test/glacier/20948.jpg,real,intel,glacier,test
+/content/diffusion_local/train/FAKE/3622 (4).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/X0B5CX2CEI.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/65862.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/G7X324TXIY.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/DQJSTYCD18.jpg,fake,gan,face,test
+/content/intel_local/seg_train/seg_train/mountain/4673.jpg,real,intel,mountain,train
+/content/intel_local/seg_train/seg_train/forest/7826.jpg,real,intel,forest,train
+/content/diffusion_local/train/REAL/0188 (9).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2723 (4).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/QVQ4ADB3IU.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/1N31FVKPN0.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/1083 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/YEH9NQXBQP.jpg,fake,gan,face,train
+/content/general_ai_local/RealArt/RealArt/ways-to-take-stunning-portraits-3.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/30YAI4JQ1J.jpg,fake,gan,face,test
+/content/intel_local/seg_train/seg_train/glacier/16845.jpg,real,intel,glacier,train
+/content/diffusion_local/train/REAL/0480 (8).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/VU2GVZF40R.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/3769 (10).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/374 (5).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/60474.jpg,real,gan,face,train
+/content/general_ai_local/RealArt/RealArt/feature.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/08953.jpg,real,gan,face,train
+/content/diffusion_local/train/REAL/3466 (6).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/test/REAL/0160 (6).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/4422 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1508.jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/buildings/401.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/19629.jpg,real,gan,face,train
+/content/general_ai_local/RealArt/RealArt/mediaonmedia-most-influential-person-in-media-19455.jpg,real,general_ai,RealArt,train
+/content/intel_local/seg_test/seg_test/forest/23472.jpg,real,intel,forest,test
+/content/diffusion_local/train/FAKE/4201 (7).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/05046.jpg,real,gan,face,test
+/content/general_ai_local/RealArt/RealArt/extinctions_elephants-555x507.jpg,real,general_ai,RealArt,train
+/content/intel_local/seg_train/seg_train/buildings/1787.jpg,real,intel,buildings,train
+/content/intel_local/seg_train/seg_train/forest/6653.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/sea/19676.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/87ZOLO1SJF.jpg,fake,gan,face,valid
+/content/general_ai_local/AiArtData/AiArtData/ai-portraits-celebrities-dwayne-johnson-the-rock.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/REAL/4384 (7).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/INZB5RC6RO.jpg,fake,gan,face,train
+/content/diffusion_local/test/FAKE/815 (2).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/2637 (6).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/BTBL5C6TFZ.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/JXHNX3TQ3U.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/1BO955ZTR0.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/384XY3NK56.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/6656.jpg,real,intel,mountain,train
+/content/diffusion_local/train/FAKE/3741.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1479 (6).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/51778.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/BMGEAHIH0M.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1956 (3).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/glacier/15449.jpg,real,intel,glacier,train
+/content/intel_local/seg_train/seg_train/street/10331.jpg,real,intel,street,train
+/content/intel_local/seg_test/seg_test/glacier/21771.jpg,real,intel,glacier,test
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/HAK0BMUIGT.jpg,fake,gan,face,valid
+/content/intel_local/seg_train/seg_train/sea/10245.jpg,real,intel,sea,train
+/content/intel_local/seg_train/seg_train/street/16336.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/A70EMJQ5WR.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/33419.jpg,real,gan,face,train
+/content/diffusion_local/train/REAL/3369 (10).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/6294.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/7M1KEVLNZA.jpg,fake,gan,face,test
+/content/intel_local/seg_test/seg_test/glacier/24060.jpg,real,intel,glacier,test
+/content/diffusion_local/train/REAL/0343 (2).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3059 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3192 (4).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/1017.jpg,real,intel,forest,train
+/content/general_ai_local/AiArtData/AiArtData/Earth-Species-project-generative-ai-unders.max-2100x2100.jpg,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/forest/3766.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/50039.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/62548.jpg,real,gan,face,valid
+/content/diffusion_local/train/FAKE/5190 (5).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/M78WQBP37N.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1088.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1096 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/REAL/0635 (7).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/3207 (7).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/LSIFZXB73H.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/K0B9IVV2XQ.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/J9FOTZBBP4.jpg,fake,gan,face,test
+/content/intel_local/seg_train/seg_train/street/3038.jpg,real,intel,street,train
+/content/diffusion_local/train/FAKE/4755.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2360 (7).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/5799 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/490.jpg,fake,diffusion,cifar_object,test
+/content/intel_local/seg_test/seg_test/buildings/22969.jpg,real,intel,buildings,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/HYK7B92L4X.jpg,fake,gan,face,train
+/content/diffusion_local/test/FAKE/61 (4).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/3ENZNS9F05.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/61612.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/13578.jpg,real,gan,face,valid
+/content/diffusion_local/train/REAL/4007 (8).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/029ODGJ9Q5.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/A6AISQ86B2.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/10551.jpg,real,intel,sea,train
+/content/general_ai_local/RealArt/RealArt/images3.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/OQ33E0QVXW.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/4409 (2).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/68503.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/8500.jpg,real,intel,mountain,train
+/content/intel_local/seg_train/seg_train/street/7603.jpg,real,intel,street,train
+/content/intel_local/seg_train/seg_train/glacier/2536.jpg,real,intel,glacier,train
+/content/intel_local/seg_train/seg_train/street/6815.jpg,real,intel,street,train
+/content/diffusion_local/test/FAKE/134 (6).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/IOBC2L2YP0.jpg,fake,gan,face,test
+/content/intel_local/seg_train/seg_train/sea/12226.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/RU5U4SYNF8.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/KK4I04IR0U.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/11310.jpg,real,intel,mountain,train
+/content/general_ai_local/AiArtData/AiArtData/5d395cf1a43bd-ai-transforms-celebrities-photo-into-old-portraits-paintings-5d380beb228da__700.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/2087 (7).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/2020-03-feature-giraffe_tcm7-269465.png,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/00UBMGCRGR.jpg,fake,gan,face,train
+/content/diffusion_local/test/FAKE/527 (2).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/3438 (9).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2823 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/344 (5).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/test/FAKE/403 (2).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/test/FAKE/790.jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/3783 (2).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/A9B0JLVPZC.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/3043 (6).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1057 (7).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/AC4T3T7ACZ.jpg,fake,gan,face,valid
+/content/diffusion_local/train/FAKE/2189 (6).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/luke-wells-luke-wells-landscape-midjourney.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/VZT3Y4KO0I.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/4254 (4).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/754 (9).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/3KDIOGZCAV.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/4239 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/X7IJN0WA87.jpg,fake,gan,face,valid
+/content/general_ai_local/RealArt/RealArt/lindsay-adler-male-portrait-final-image.jpeg,real,general_ai,RealArt,train
+/content/intel_local/seg_train/seg_train/glacier/1873.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/6I4PRG8W37.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/Z1KTVYFYKM.jpg,fake,gan,face,test
+/content/general_ai_local/RealArt/RealArt/large-beautiful-print-of-village-scenery-waterproof-texture-original-imafzgbusjtaysub.jpeg,real,general_ai,RealArt,train
+/content/diffusion_local/train/FAKE/5511 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4281 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/GLVHC4MO8R.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/00578.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/35845.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/1933 (6).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/22587.jpg,real,gan,face,train
+/content/diffusion_local/train/REAL/4806 (4).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/3805 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/04190.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/VZIKK8XBVJ.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/5960 (7).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/10116.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/YTH8ECRLNZ.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/2182 (4).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/0171 (4).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/sea/18689.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/45560.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/1425 (4).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/3203 (3).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/183 (7).jpg,fake,diffusion,cifar_object,test
+/content/intel_local/seg_test/seg_test/sea/21740.jpg,real,intel,sea,test
+/content/diffusion_local/train/FAKE/1219 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1224 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/6QIVO0KWVD.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/2392 (3).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/buildings/18971.jpg,real,intel,buildings,train
+/content/intel_local/seg_train/seg_train/street/14746.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/31706.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/4833 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3711 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3410 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3415 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4921 (4).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/403e1ee688f55ae08740e13dbcaae5633f7c1d3a-4032x2268.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/1550.jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/K9EGCX72RR.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/4374 (7).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/0QC7RGLW1W.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/4081 (8).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/659 (6).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/test/REAL/0892 (2).jpg,real,diffusion,cifar_object,test
+/content/general_ai_local/AiArtData/AiArtData/NVIDIA-GauGAN-AI-demo-screenshot.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/REAL/3515 (4).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4469 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2225 (4).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/RMA8R020JX.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/9917LWTXR9.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/3540.jpg,real,intel,buildings,train
+/content/diffusion_local/train/FAKE/1764 (10).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/sea/19461.jpg,real,intel,sea,train
+/content/intel_local/seg_train/seg_train/glacier/4064.jpg,real,intel,glacier,train
+/content/diffusion_local/train/FAKE/2700 (5).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/KJTR6X2XIA.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/5042 (8).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2953 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/C29CV6RIR2.jpg,fake,gan,face,valid
+/content/diffusion_local/train/FAKE/3176 (7).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/ai-portrait-10.jpg,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/mountain/13613.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/50123.jpg,real,gan,face,valid
+/content/diffusion_local/train/REAL/3957 (6).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/52687.jpg,real,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/8AL3D2AI1C.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/an-ai-jungle-landscape-made-by-ai-landscape-generator.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/13059.jpg,real,gan,face,test
+/content/diffusion_local/train/REAL/2785 (4).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1164 (4).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1434 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/489 (8).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/OS28KOB45B.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/9VPGWZAFMH.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/1356 (3).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/sea/22066.jpg,real,intel,sea,test
+/content/intel_local/seg_train/seg_train/mountain/16560.jpg,real,intel,mountain,train
+/content/intel_local/seg_train/seg_train/buildings/9905.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/35436.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/67376.jpg,real,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/1-trippy-cubism-psychedelic-fun-cocktails-mojitos-ai-generated-olfactoart-studio.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/DN7BJHO7E7.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1715 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/06360.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/street/8528.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/SGKGFHDH3J.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/street/7155.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/T7KFJEJMAT.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/1816 (9).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/glacier/17966.jpg,real,intel,glacier,train
+/content/diffusion_local/train/FAKE/4413 (10).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/14449.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/street/16139.jpg,real,intel,street,train
+/content/intel_local/seg_train/seg_train/glacier/13429.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/22276.jpg,real,gan,face,valid
+/content/diffusion_local/test/FAKE/266 (9).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/12003.jpg,real,gan,face,valid
+/content/diffusion_local/train/FAKE/4251 (9).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/Vincent-Favilla-_Pondering_-800x550.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/test/REAL/0007 (3).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/1526 (8).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/19202.jpg,real,intel,forest,train
+/content/diffusion_local/train/REAL/4522 (9).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2863.jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/QR9WCD6FDJ.jpg,fake,gan,face,test
+/content/diffusion_local/train/REAL/1859 (10).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/13323.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/2DOCU85UMU.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/YHGYFF35L9.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/0861 (6).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/F09MTWIB59.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/T5ER536IG4.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/6GGFCPZMDM.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/street/11453.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/YEY0UCFG4V.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/5145 (6).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1021 (7).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/UYDKH9EKKB.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/I5M7B7M70V.jpg,fake,gan,face,valid
+/content/diffusion_local/train/FAKE/3697 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4672.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4620 (6).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/earing-a-yellow-kimono-in-a-beautiful-and-foggy-tropical-greenh-copy-800x800.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/test/REAL/0787 (5).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/5073 (10).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/17004.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/TUXNFVZB5I.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/Hallucinating-with-AI-1200x960.png,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/4718 (7).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/43566.jpg,real,gan,face,valid
+/content/diffusion_local/train/REAL/0977.jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/19532.jpg,real,intel,mountain,train
+/content/diffusion_local/train/REAL/0615 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/37744.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/B2SSJJVC3S.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/38475.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/GNSUELN7S6.jpg,fake,gan,face,train
+/content/intel_local/seg_test/seg_test/sea/24041.jpg,real,intel,sea,test
+/content/diffusion_local/train/FAKE/4542 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/3329 (5).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2908.jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/18731.jpg,real,intel,street,train
+/content/intel_local/seg_train/seg_train/mountain/15448.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/2TGFY9O5I8.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1751 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3332 (4).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1250 (10).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/36662.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/19688.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/18265.jpg,real,gan,face,valid
+/content/diffusion_local/train/FAKE/5064 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2677.jpg,real,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/03a3gbCKfH8dDJnjhHLuHDf-1.fit_lim.v1665523315.png,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/glacier/5439.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/MTLDNHN6XE.jpg,fake,gan,face,valid
+/content/diffusion_local/train/FAKE/5749 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4305 (10).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/5637 (8).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/buildings/10383.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/Y3B1MRXW6A.jpg,fake,gan,face,test
+/content/diffusion_local/train/FAKE/1890 (4).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/witchy-studio-japan-psychedelic-01.jpg,fake,general_ai,AiArtData,train
+/content/general_ai_local/RealArt/RealArt/noir.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/6569M74HZT.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/Q37O5GDZ2V.jpg,fake,gan,face,train
+/content/diffusion_local/test/FAKE/302.jpg,fake,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/buildings/13383.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/35163.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/3272 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2667 (2).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/beautiful-scenery-136-61dedf99f0878__880.jpg,real,general_ai,RealArt,train
+/content/intel_local/seg_test/seg_test/street/20750.jpg,real,intel,street,test
+/content/diffusion_local/train/REAL/2935 (2).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/3524.jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/B2D5B3NS84.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/KJBNF2E757.jpg,fake,gan,face,train
+/content/diffusion_local/test/FAKE/229 (7).jpg,fake,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/mountain/2505.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/30438.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/3561.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/LJ235RJ8WD.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/XSDF9JL3WJ.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/2217 (7).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/CXXVBMKZN3.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/11113.jpg,real,gan,face,test
+/content/intel_local/seg_test/seg_test/glacier/20202.jpg,real,intel,glacier,test
+/content/intel_local/seg_train/seg_train/street/698.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/NRQIXYMZU1.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/6265.jpg,real,intel,buildings,train
+/content/intel_local/seg_train/seg_train/forest/18281.jpg,real,intel,forest,train
+/content/diffusion_local/train/FAKE/5726 (10).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/161026190832-kelvin-okafor-hyper-real-images.jpg,real,general_ai,RealArt,train
+/content/intel_local/seg_test/seg_test/glacier/21092.jpg,real,intel,glacier,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/60608.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/1290 (7).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/glacier/3808.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/2BW5U5KCXY.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/nXLRsgDqpZcqChDus9b1_9.4899x.jpg,fake,general_ai,AiArtData,train
+/content/general_ai_local/AiArtData/AiArtData/image14.jpeg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/REAL/4038 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/44937.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/1111 (5).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/ZNVAJVH14J.jpg,fake,gan,face,train
+/content/intel_local/seg_test/seg_test/street/21526.jpg,real,intel,street,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/GMYUAV1F8V.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/JMZJQ5VWLE.jpg,fake,gan,face,test
+/content/intel_local/seg_train/seg_train/mountain/6698.jpg,real,intel,mountain,train
+/content/diffusion_local/train/REAL/3908 (10).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/buildings/11315.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/00043.jpg,real,gan,face,train
+/content/intel_local/seg_test/seg_test/glacier/20924.jpg,real,intel,glacier,test
+/content/intel_local/seg_train/seg_train/buildings/2999.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/22070.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/AUDSHNBCXG.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/R2TVCGRYHK.jpg,fake,gan,face,train
+/content/general_ai_local/RealArt/RealArt/julien.jpg,real,general_ai,RealArt,train
+/content/diffusion_local/test/FAKE/376 (7).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/3634 (5).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/sea/12313.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/6L7G2TGZGS.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1680.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3005 (2).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/19948.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/3AYFR9FOU7.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/16223.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/street/17076.jpg,real,intel,street,train
+/content/intel_local/seg_train/seg_train/forest/18189.jpg,real,intel,forest,train
+/content/intel_local/seg_test/seg_test/forest/20150.jpg,real,intel,forest,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/04056.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/DO8DIPTVUA.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/hero-image.fill.size_1248x702.v1623363981.png,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/5881 (4).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/forest/24226.jpg,real,intel,forest,test
+/content/intel_local/seg_test/seg_test/street/24138.jpg,real,intel,street,test
+/content/diffusion_local/train/REAL/2392 (3).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/36877.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/1988.jpg,real,intel,forest,train
+/content/diffusion_local/train/FAKE/4729 (8).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/3197 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/UVREZMVMHD.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/glacier/12803.jpg,real,intel,glacier,train
+/content/intel_local/seg_train/seg_train/street/17119.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/XDKSV7ZFGU.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/42892.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/47056.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/FSNAANSXX4.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/PGJQGC714M.jpg,fake,gan,face,test
+/content/diffusion_local/train/FAKE/1197 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/93Z699ICMO.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/3FR2S6NUYQ.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/04208.jpg,real,gan,face,train
+/content/diffusion_local/test/FAKE/28 (5).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/26211.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/15844.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/forest/9015.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/2ZKXBNM0LL.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/street/5637.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/26993.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/2170.jpg,real,intel,buildings,train
+/content/intel_local/seg_test/seg_test/buildings/22345.jpg,real,intel,buildings,test
+/content/diffusion_local/test/FAKE/590 (8).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/4426 (6).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/114 (8).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/66352.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/1133.jpg,real,intel,mountain,train
+/content/diffusion_local/train/FAKE/3181 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1082 (10).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/5014.jpg,real,intel,forest,train
+/content/diffusion_local/train/REAL/2416.jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/67245.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/2109 (8).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/20834.jpg,real,gan,face,valid
+/content/intel_local/seg_test/seg_test/buildings/20250.jpg,real,intel,buildings,test
+/content/diffusion_local/train/REAL/2613 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/IR054ND5BQ.jpg,fake,gan,face,valid
+/content/general_ai_local/AiArtData/AiArtData/image33.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/30827.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/8779.jpg,real,intel,sea,train
+/content/intel_local/seg_test/seg_test/street/24095.jpg,real,intel,street,test
+/content/general_ai_local/AiArtData/AiArtData/1Mcde2p8rG0uUjwwQ-tGWLg.png,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/street/16516.jpg,real,intel,street,train
+/content/diffusion_local/train/FAKE/1740 (8).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/82V9R9D4HW.jpg,fake,gan,face,train
+/content/intel_local/seg_test/seg_test/mountain/21876.jpg,real,intel,mountain,test
+/content/diffusion_local/train/FAKE/4141 (4).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/6836.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/mountain/16644.jpg,real,intel,mountain,train
+/content/intel_local/seg_train/seg_train/mountain/12627.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/39596.jpg,real,gan,face,valid
+/content/intel_local/seg_train/seg_train/glacier/8954.jpg,real,intel,glacier,train
+/content/diffusion_local/train/REAL/0713.jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1983 (10).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/51130.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/5417.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1385.jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/YFFS732A8A.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/237KSTLWMP.jpg,fake,gan,face,train
+/content/intel_local/seg_test/seg_test/glacier/23548.jpg,real,intel,glacier,test
+/content/diffusion_local/train/FAKE/3552 (5).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/DZ1F2WMDHV.jpg,fake,gan,face,test
+/content/general_ai_local/AiArtData/AiArtData/name620-e1680453801646.png,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/REAL/4107 (10).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/glacier/21926.jpg,real,intel,glacier,test
+/content/diffusion_local/test/FAKE/330.jpg,fake,diffusion,cifar_object,test
+/content/intel_local/seg_test/seg_test/street/24101.jpg,real,intel,street,test
+/content/diffusion_local/train/REAL/2642 (3).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/JXYTLGDGS0.jpg,fake,gan,face,test
+/content/diffusion_local/train/FAKE/3025 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/HY47165ZIM.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/4IQUPZ2NA1.jpg,fake,gan,face,test
+/content/intel_local/seg_train/seg_train/mountain/9348.jpg,real,intel,mountain,train
+/content/general_ai_local/AiArtData/AiArtData/panoramic-abstract-mountain-scenery-in-flat-style-natural-wallpaper-ai-generated-image-photo.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/REAL/2549 (6).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/sea/20955.jpg,real,intel,sea,test
+/content/diffusion_local/test/REAL/0973 (3).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/3967 (3).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/12750.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/02669.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/5336 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4643 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2264 (7).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/EKOA7G5S58.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/25447.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/01581.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/2129 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/HTLIPV6483.jpg,fake,gan,face,valid
+/content/diffusion_local/train/REAL/3608 (4).jpg,real,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/jungle-river-3-800x800.png,fake,general_ai,AiArtData,train
+/content/general_ai_local/AiArtData/AiArtData/trudeau-rev.jpg,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/buildings/5579.jpg,real,intel,buildings,train
+/content/general_ai_local/AiArtData/AiArtData/wonderland-girl-generated-by-Fotor-ai-art-generator.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/DSR9R83681.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/26967.jpg,real,gan,face,train
+/content/general_ai_local/RealArt/RealArt/2506708-HSC00001-6.jpg,real,general_ai,RealArt,train
+/content/diffusion_local/train/FAKE/5524 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4886 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/64413.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/BWZX354Z0W.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/10888.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/58910.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/08437.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/BU2G5KYUVG.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1526 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3768 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1743 (4).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/mountain/23103.jpg,real,intel,mountain,test
+/content/intel_local/seg_train/seg_train/buildings/4593.jpg,real,intel,buildings,train
+/content/diffusion_local/train/REAL/0227 (3).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/32694.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/11984.jpg,real,gan,face,train
+/content/diffusion_local/train/REAL/1604 (7).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/11707.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/03711.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/1660 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/WGUDFU6NFJ.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/06258.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/32312.jpg,real,gan,face,valid
+/content/intel_local/seg_train/seg_train/mountain/3786.jpg,real,intel,mountain,train
+/content/diffusion_local/train/REAL/2952 (4).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/0987 (8).jpg,real,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/ai-art-prompt-8.png,fake,general_ai,AiArtData,train
+/content/general_ai_local/RealArt/RealArt/GettyImages-450753839_83740.jpg,real,general_ai,RealArt,train
+/content/intel_local/seg_train/seg_train/buildings/5340.jpg,real,intel,buildings,train
+/content/diffusion_local/train/REAL/4111 (3).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1116 (5).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4981 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/07679.jpg,real,gan,face,valid
+/content/diffusion_local/train/FAKE/2267 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2950 (6).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2888 (7).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/street/21175.jpg,real,intel,street,test
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/R7UO3OVF5N.jpg,fake,gan,face,valid
+/content/diffusion_local/train/REAL/2334 (8).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2583.jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/9DXNIJTMWO.jpg,fake,gan,face,valid
+/content/diffusion_local/test/REAL/0944 (2).jpg,real,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/mountain/8479.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/TPBYH1N68U.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/1301.jpg,real,intel,sea,train
+/content/diffusion_local/train/FAKE/4920 (8).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/MM8Y41Q5BE.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/27928.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/56759.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/30881.jpg,real,gan,face,valid
+/content/intel_local/seg_test/seg_test/street/23068.jpg,real,intel,street,test
+/content/diffusion_local/train/REAL/3069 (10).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3974 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/CVE9QPL81W.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/35095.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/13K1F4JWM5.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/street/3352.jpg,real,intel,street,train
+/content/diffusion_local/test/FAKE/761 (8).jpg,fake,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/sea/17526.jpg,real,intel,sea,train
+/content/diffusion_local/test/FAKE/488 (7).jpg,fake,diffusion,cifar_object,test
+/content/general_ai_local/AiArtData/AiArtData/BM6NugXodzCJUvbfOEPc_6x.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/87DHE4UQV3.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/8495.jpg,real,intel,forest,train
+/content/diffusion_local/train/REAL/4961 (10).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/12645.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/TLXLADTREB.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/08524.jpg,real,gan,face,train
+/content/diffusion_local/test/FAKE/722 (9).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/2024 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1031 (4).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/IH09ML5RSD.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/5086 (7).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/sea/12619.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/3774FIQXET.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/3479 (8).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/street/20734.jpg,real,intel,street,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/I5ZU1SKATF.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/2279.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1797 (6).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/0132 (3).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/5645 (8).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/11043.jpg,real,intel,forest,train
+/content/diffusion_local/train/REAL/3737 (2).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/4658 (2).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/6330.jpg,real,intel,mountain,train
+/content/intel_local/seg_test/seg_test/glacier/22696.jpg,real,intel,glacier,test
+/content/diffusion_local/test/REAL/0980 (8).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/5382 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1690 (8).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/GoogleAI-theAIgang.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/3J7WRW20PE.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/WZPBVA27Q4.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/7286.jpg,real,intel,sea,train
+/content/intel_local/seg_train/seg_train/street/13832.jpg,real,intel,street,train
+/content/intel_local/seg_train/seg_train/buildings/11290.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/24620.jpg,real,gan,face,valid
+/content/intel_local/seg_train/seg_train/forest/8034.jpg,real,intel,forest,train
+/content/diffusion_local/train/REAL/0113.jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/29388.jpg,real,gan,face,test
+/content/diffusion_local/train/FAKE/1555 (5).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/45859.jpg,real,gan,face,valid
+/content/general_ai_local/AiArtData/AiArtData/-s-fluffy-fur-and-round-features-immediately-melted-the-viewer-s-heart-photo.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/57661.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/G7UE6S4GC7.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/5188.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/35995.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/0CZO6195T0.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/4185 (7).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2300 (10).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/glacier/12236.jpg,real,intel,glacier,train
+/content/general_ai_local/AiArtData/AiArtData/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png,fake,general_ai,AiArtData,train
+/content/diffusion_local/test/FAKE/920 (3).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/4626 (2).jpg,real,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/picturesque-scenery-waterfall-flowing-through-260nw-2360180703.jpg,real,general_ai,RealArt,train
+/content/general_ai_local/AiArtData/AiArtData/maxresdefault3.jpg,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/glacier/17500.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/50270.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/11669.jpg,real,intel,mountain,train
+/content/diffusion_local/train/REAL/1919 (7).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/1S1IFMMTU0.jpg,fake,gan,face,test
+/content/diffusion_local/test/REAL/0655 (8).jpg,real,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/ROMCGX3KIZ.jpg,fake,gan,face,valid
+/content/intel_local/seg_train/seg_train/sea/16528.jpg,real,intel,sea,train
+/content/intel_local/seg_train/seg_train/glacier/4249.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/TL9EHDLTNN.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/AI-Tracking-Cat.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/K1FRLFLDGJ.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/D1FE75R25X.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/35319.jpg,real,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/ZWM50MGU2H.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/2808 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/REAL/0604 (10).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/5035 (10).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/glacier/12957.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/3ABZAZWQTW.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/glacier/6895.jpg,real,intel,glacier,train
+/content/intel_local/seg_train/seg_train/buildings/19895.jpg,real,intel,buildings,train
+/content/diffusion_local/train/FAKE/1182 (4).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/18122.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/16478.jpg,real,intel,buildings,train
+/content/diffusion_local/train/FAKE/4528 (4).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/CAP8K38EG6.jpg,fake,gan,face,train
+/content/diffusion_local/test/REAL/0911 (3).jpg,real,diffusion,cifar_object,test
+/content/intel_local/seg_test/seg_test/sea/23194.jpg,real,intel,sea,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/XLDOY8W7UA.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/0943 (10).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/13423.jpg,real,intel,forest,train
+/content/general_ai_local/AiArtData/AiArtData/00urban_biodiversity_landscape_architecture_14ed209d-45ca-4c57-b995-4d1552813cc1.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/07277.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/4WVP4IIAXU.jpg,fake,gan,face,train
+/content/general_ai_local/RealArt/RealArt/3-19-9-25-15-39-55m.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/56726.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/PT7JXTLLTA.jpg,fake,gan,face,test
+/content/diffusion_local/train/FAKE/5894 (8).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/3356 (9).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1129 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1260.jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/THKELD4Z7S.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/1440_AI_and_animal_lang_spotted_naked_mole_rat.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/B2J4OQAS7D.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1920 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/0098 (7).jpg,real,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/hqdefault.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/9J68BTAHH4.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/il_570xN.4588037671_ak6c.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/4796 (4).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/create-ai-landscapes-with-ai-landscape-generator-of-fotor.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/1595.jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/glacier/19536.jpg,real,intel,glacier,train
+/content/intel_local/seg_train/seg_train/forest/10527.jpg,real,intel,forest,train
+/content/diffusion_local/train/FAKE/5590 (5).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/16427.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/64KM9IUJ1L.jpg,fake,gan,face,valid
+/content/diffusion_local/train/REAL/3880 (10).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/MZ2H381U8N.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/56548.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/35017.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/YLOH373HI1.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/19765.jpg,real,intel,sea,train
+/content/diffusion_local/train/REAL/1022 (7).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/sea/16485.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/30525.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/EA64TIRYQE.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/38087.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/3324 (6).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/VEG4JMZUVD.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/3589 (2).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/ZZNKRXBE9B.jpg,fake,gan,face,train
+/content/diffusion_local/test/REAL/0128 (6).jpg,real,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/sea/13273.jpg,real,intel,sea,train
+/content/diffusion_local/train/FAKE/4384 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4548 (6).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/679L1WUXIS.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/2211 (8).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/glacier/20195.jpg,real,intel,glacier,test
+/content/intel_local/seg_train/seg_train/sea/4038.jpg,real,intel,sea,train
+/content/diffusion_local/train/FAKE/4178 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2401 (9).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1871 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2122 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1745.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/488.jpg,fake,diffusion,cifar_object,test
+/content/general_ai_local/AiArtData/AiArtData/ai-generated-background-1.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/5701.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1775 (6).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/5991 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/120 (2).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/4187 (5).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1858 (3).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/58941.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/PLA5DLQX53.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/0970 (3).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3558 (7).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/F3TFCFV71X.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/3819 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/G662FXJK0H.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/Midjourney-River.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/REAL/0819 (2).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/49751.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/1883 (2).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/People_Magazine_cover.png,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/4YC94909LU.jpg,fake,gan,face,test
+/content/diffusion_local/train/REAL/3048 (2).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/QWBWRBJL5P.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/SGMLSOTJUJ.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1097 (7).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/26464.jpg,real,gan,face,valid
+/content/diffusion_local/train/FAKE/4362 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2310 (8).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2387 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/66210.jpg,real,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/ai-generated-7670948_1280.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/REAL/2616 (6).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/V2FMFMVZ40.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/glacier/15271.jpg,real,intel,glacier,train
+/content/intel_local/seg_train/seg_train/glacier/6603.jpg,real,intel,glacier,train
+/content/diffusion_local/test/REAL/0537 (7).jpg,real,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/42124.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/glacier/15718.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/43436.jpg,real,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/EMGUS6QPP8.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/SNEQQNYPCN.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/16767.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/HFW3YFMWLT.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/8471.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/13917.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/1391 (4).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/24102.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/11094.jpg,real,intel,forest,train
+/content/diffusion_local/train/REAL/4957 (6).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/buildings/4748.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/VNRVH4MBTN.jpg,fake,gan,face,test
+/content/diffusion_local/train/FAKE/1215 (7).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/street/20665.jpg,real,intel,street,test
+/content/general_ai_local/AiArtData/AiArtData/psychedelic-1084082_1920.jpg,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/buildings/4158.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/4NEPKEOYPW.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/52297.jpg,real,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/3G5YQ2HVUM.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/05740.jpg,real,gan,face,train
+/content/diffusion_local/test/REAL/0437 (8).jpg,real,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/glacier/10134.jpg,real,intel,glacier,train
+/content/intel_local/seg_train/seg_train/buildings/15673.jpg,real,intel,buildings,train
+/content/diffusion_local/train/FAKE/1310 (10).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/14221.jpg,real,intel,mountain,train
+/content/diffusion_local/test/FAKE/394 (3).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/test/FAKE/309 (2).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/test/REAL/0103 (10).jpg,real,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/glacier/7193.jpg,real,intel,glacier,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/6URSGRYMUC.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/4699 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/2Q36BD8CU3.jpg,fake,gan,face,valid
+/content/diffusion_local/train/REAL/0521 (7).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2050 (6).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/12596.jpg,real,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/Screen_Shot_2023-01-22_at_5.33.01_PM.png,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/2194 (2).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1100 (3).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2872 (2).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/sea-164989_1280.jpg,real,general_ai,RealArt,train
+/content/intel_local/seg_train/seg_train/mountain/10028.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/ICHOUR7UPZ.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/B84CEJ3YS4.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/EP6YUMKEZG.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/Z0X2ZZPPFD.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/10792.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/MUBW7VIY3J.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/5547 (2).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/790.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/ZATFQYC3CL.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/43255.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/281.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/YZ5RH78EOE.jpg,fake,gan,face,valid
+/content/general_ai_local/AiArtData/AiArtData/ai-art-voguebus-photographer-month-22-story.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/38040.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/K21RSVLAMS.jpg,fake,gan,face,valid
+/content/diffusion_local/train/REAL/4980 (2).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/sea/10309.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/09008.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/38137.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/ZB1FER5MQI.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/9297.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/10870.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/1R1GPEKPAN.jpg,fake,gan,face,valid
+/content/diffusion_local/train/FAKE/2782 (8).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/12577.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/2499 (7).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1266 (6).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/snapshot_20230310.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/68752.jpg,real,gan,face,valid
+/content/general_ai_local/RealArt/RealArt/49ee445617997a593ca86c6f9b.jpg,real,general_ai,RealArt,train
+/content/diffusion_local/train/REAL/2820 (5).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/0715 (8).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/EA9EGBMAKC.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/17157.jpg,real,gan,face,test
+/content/diffusion_local/train/FAKE/3233.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/5894 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/CP506HXP66.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/8N2OU7O6LA.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/4266.jpg,real,intel,sea,train
+/content/diffusion_local/train/FAKE/4604 (10).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/YRTPA1AAOF.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/2053.jpg,real,intel,mountain,train
+/content/diffusion_local/train/FAKE/5333 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2890 (9).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/AN7CDO86GI.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/46851.jpg,real,gan,face,valid
+/content/diffusion_local/train/FAKE/2668.jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/sea/10143.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/8UUVLJNLFI.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/HJALLR8S0J.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/2583 (6).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/4023 (5).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/5432 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2294 (7).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1334 (7).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/PMFMHB5VJM.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/9TVNOW5JZP.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/sea/17657.jpg,real,intel,sea,train
+/content/diffusion_local/train/FAKE/1737 (6).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/VDTNNLUSP8.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/2KD2BL8EQ0.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/95.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/28599.jpg,real,gan,face,train
+/content/diffusion_local/train/FAKE/3620 (5).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/30535.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/5238.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/Z18YE6PRC6.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/0011 (2).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/B5MQWSZ06G.jpg,fake,gan,face,train
+/content/diffusion_local/test/REAL/0912 (3).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/5205 (7).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/2660.jpg,real,intel,mountain,train
+/content/diffusion_local/train/REAL/3952 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/GPKFXYDG2Z.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/17397.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/PP82IZ6535.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/2LBO208EVA.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/ZA2ENLSDXY.jpg,fake,gan,face,test
+/content/intel_local/seg_train/seg_train/forest/18557.jpg,real,intel,forest,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/23094.jpg,real,gan,face,valid
+/content/diffusion_local/test/REAL/0857 (3).jpg,real,diffusion,cifar_object,test
+/content/general_ai_local/AiArtData/AiArtData/19lv0WF2Fpg5AVtefTvLQJA.png,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/58346.jpg,real,gan,face,valid
+/content/diffusion_local/train/REAL/1731 (7).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2184 (3).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/373 (10).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/PT8132WBTD.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/LS7FZRJRWP.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/42025.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/15026.jpg,real,intel,buildings,train
+/content/diffusion_local/train/FAKE/4705 (6).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/ath-flowers-vivid-colors-generative-ai-landscape-painting-mountain-281590810.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/G0H0ZZKU6U.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/5OP67YBZ1H.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/BLTO7RR0M4.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/1fu-PkIWiOiMMedfiGmFefg.jpeg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/DOSC042HXR.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/5245.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1137 (5).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/forest/8978.jpg,real,intel,forest,train
+/content/diffusion_local/train/FAKE/3547 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/5242 (10).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/230209101637-malik-afegbua-ngochola-younger.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/REAL/4070 (10).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/test/REAL/0996 (9).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/test/FAKE/107 (10).jpg,fake,diffusion,cifar_object,test
+/content/general_ai_local/AiArtData/AiArtData/24jo7tag_a-delhi-and-mumbai-woman-depicted-in-the-aigenerated-artwork_625x300_29_December_22.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/4051 (10).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2434 (2).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/MQZHTCKSGB.jpg,fake,gan,face,valid
+/content/diffusion_local/train/FAKE/3132 (2).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/buildings/960.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/CBLJOD2LT8.jpg,fake,gan,face,train
+/content/intel_local/seg_test/seg_test/glacier/23596.jpg,real,intel,glacier,test
+/content/diffusion_local/train/FAKE/3023 (6).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1411 (4).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/388 (2).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/5740 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/07559.jpg,real,gan,face,train
+/content/diffusion_local/test/FAKE/54 (8).jpg,fake,diffusion,cifar_object,test
+/content/intel_local/seg_train/seg_train/mountain/18303.jpg,real,intel,mountain,train
+/content/intel_local/seg_train/seg_train/street/19308.jpg,real,intel,street,train
+/content/diffusion_local/train/REAL/0817 (10).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/22PHQBJA3H.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/3335 (6).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/4639.jpg,real,intel,mountain,train
+/content/intel_local/seg_test/seg_test/glacier/23272.jpg,real,intel,glacier,test
+/content/diffusion_local/train/REAL/0526 (4).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/test/FAKE/89 (3).jpg,fake,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/1185 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/29058.jpg,real,gan,face,valid
+/content/intel_local/seg_train/seg_train/sea/4819.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/42152.jpg,real,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/hassan-ragab-cairo-sketches-midjourney-ai-architecture-hero_dezeen_1704_col_0.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/6O2970KAXU.jpg,fake,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/06db055c-ai-hallucination-rag-1024x688.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/TY6M5B7DQ6.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/74TPA7BC18.jpg,fake,gan,face,train
+/content/diffusion_local/test/FAKE/880 (6).jpg,fake,diffusion,cifar_object,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/CEEOTFVRKN.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/VD66BMK6XF.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/4VNUV1UXM5.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/5618 (4).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/16240.jpg,real,intel,street,train
+/content/diffusion_local/train/REAL/3473 (7).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/82U96YMGIZ.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/10228.jpg,real,intel,buildings,train
+/content/intel_local/seg_train/seg_train/street/2541.jpg,real,intel,street,train
+/content/diffusion_local/train/FAKE/5826 (10).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/test/REAL/0145 (2).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/FAKE/4326 (2).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/14598.jpg,real,intel,street,train
+/content/diffusion_local/train/FAKE/5117 (5).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2917 (10).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/F2SPL4MLVI.jpg,fake,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/8OIEDY5KFU.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/12065.jpg,real,intel,buildings,train
+/content/diffusion_local/train/REAL/2270 (2).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2908 (10).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/IC6HSKTI2P.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/P1YDO901B5.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/Q8GG6NK5OQ.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/street/13688.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/KZVZ9W2T1L.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/59078.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/43815.jpg,real,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/psychedelic-artistic-image-geometric-repetitive-260nw-2395394413.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/28367.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/XZQ4ISBYZO.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/12405.jpg,real,intel,mountain,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/33019.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/WILS4N0OEY.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/IYUXONKH2B.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/1216 (2).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4791 (7).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4726.jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/CEUC7T6J87.jpg,fake,gan,face,valid
+/content/intel_local/seg_train/seg_train/mountain/3676.jpg,real,intel,mountain,train
+/content/diffusion_local/train/REAL/1725 (10).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/0278 (2).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/50Y6CNBPO4.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/38782.jpg,real,gan,face,train
+/content/diffusion_local/test/FAKE/412 (5).jpg,fake,diffusion,cifar_object,test
+/content/general_ai_local/AiArtData/AiArtData/1sTXgMwDUW0pk-1yK4iHYFw.png,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/4599 (6).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/M1OXADOZ7E.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/0650 (7).jpg,real,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/bDSF6saJUuPLsEu9i3ud--1--gvs7i.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/1259 (10).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/4064 (4).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/5222.jpg,real,intel,street,train
+/content/diffusion_local/train/FAKE/3114 (7).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/03192.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/forest/2222.jpg,real,intel,forest,train
+/content/intel_local/seg_train/seg_train/buildings/4631.jpg,real,intel,buildings,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/0AJ9SDYUL5.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/1430 (6).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/real/22440.jpg,real,gan,face,test
+/content/diffusion_local/train/REAL/3571 (8).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/44628.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/H7F4SO7GDL.jpg,fake,gan,face,train
+/content/intel_local/seg_test/seg_test/sea/20664.jpg,real,intel,sea,test
+/content/diffusion_local/train/FAKE/4885 (7).jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/7167.jpg,real,intel,mountain,train
+/content/intel_local/seg_test/seg_test/street/22231.jpg,real,intel,street,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/20276.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/8DS9SGRT8T.jpg,fake,gan,face,train
+/content/diffusion_local/train/FAKE/2256 (5).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/AiArtData/AiArtData/1000_F_609715304_7ejZLzTd3JM94FT5O5jHEkI3pE9PTgZR.jpg,fake,general_ai,AiArtData,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/KCMQ7947VA.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/2714 (6).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/33838.jpg,real,gan,face,train
+/content/general_ai_local/RealArt/RealArt/images15.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/28808.jpg,real,gan,face,train
+/content/general_ai_local/AiArtData/AiArtData/midjourney-images-6.jpg,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/1692 (7).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/1020 (6).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/0866 (10).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/2I24ONCU03.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/12231.jpg,real,intel,buildings,train
+/content/general_ai_local/AiArtData/AiArtData/cover-AI-Midjourney-3-1499x999.jpg,fake,general_ai,AiArtData,train
+/content/intel_local/seg_train/seg_train/sea/7505.jpg,real,intel,sea,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/57016.jpg,real,gan,face,valid
+/content/diffusion_local/train/REAL/2580 (8).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/IOKIZ8VB26.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/P643DYXN53.jpg,fake,gan,face,test
+/content/diffusion_local/train/REAL/2376 (3).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_test/seg_test/sea/22186.jpg,real,intel,sea,test
+/content/diffusion_local/train/REAL/2049.jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/IBOBGB6A7S.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/mountain/1340.jpg,real,intel,mountain,train
+/content/diffusion_local/train/REAL/4366 (9).jpg,real,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/IPQ46HH52Q.jpg,fake,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/FI4324G3NT.jpg,fake,gan,face,train
+/content/diffusion_local/train/REAL/4276 (9).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2426 (10).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4218 (7).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/3163 (10).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1921 (10).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4097.jpg,fake,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/1073.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/test/fake/GX74C1DHYA.jpg,fake,gan,face,test
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/U1CFC3CK13.jpg,fake,gan,face,train
+/content/intel_local/seg_train/seg_train/glacier/1320.jpg,real,intel,glacier,train
+/content/diffusion_local/train/FAKE/3505 (3).jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/4210 (6).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/01344.jpg,real,gan,face,train
+/content/intel_local/seg_train/seg_train/buildings/19701.jpg,real,intel,buildings,train
+/content/general_ai_local/RealArt/RealArt/4a092cb31ce8d11f8ca53137d86c276f.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/27597.jpg,real,gan,face,train
+/content/intel_local/seg_test/seg_test/sea/22386.jpg,real,intel,sea,test
+/content/general_ai_local/AiArtData/AiArtData/ai-art.png,fake,general_ai,AiArtData,train
+/content/diffusion_local/train/FAKE/1621 (3).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/65463.jpg,real,gan,face,train
+/content/diffusion_local/train/REAL/3770 (4).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/1360.jpg,fake,diffusion,cifar_object,train
+/content/diffusion_local/train/REAL/2618 (6).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/street/19277.jpg,real,intel,street,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/57343.jpg,real,gan,face,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/real/67308.jpg,real,gan,face,valid
+/content/gan_local/real_vs_fake/real-vs-fake/train/fake/L59R223UC8.jpg,fake,gan,face,train
+/content/general_ai_local/RealArt/RealArt/self-portrait-of-a-man.jpg,real,general_ai,RealArt,train
+/content/gan_local/real_vs_fake/real-vs-fake/train/real/68934.jpg,real,gan,face,train
+/content/diffusion_local/test/REAL/0071 (9).jpg,real,diffusion,cifar_object,test
+/content/diffusion_local/train/REAL/0272 (5).jpg,real,diffusion,cifar_object,train
+/content/diffusion_local/train/FAKE/2727 (6).jpg,fake,diffusion,cifar_object,train
+/content/general_ai_local/RealArt/RealArt/71afyFfZx0L._AC_UF8941000_QL80_.jpg,real,general_ai,RealArt,train
+/content/diffusion_local/train/FAKE/1434 (4).jpg,fake,diffusion,cifar_object,train
+/content/gan_local/real_vs_fake/real-vs-fake/valid/fake/BIB89O7TMB.jpg,fake,gan,face,valid
+/content/diffusion_local/train/REAL/3852 (2).jpg,real,diffusion,cifar_object,train
+/content/intel_local/seg_train/seg_train/mountain/7226.jpg,real,intel,mountain,train
+/content/intel_local/seg_test/seg_test/street/23707.jpg,real,intel,street,test

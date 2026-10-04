@@ -1,0 +1,24 @@
+{
+  // VS Code Live Server (port 5500) reloads the page whenever a watched file
+  // changes. The backend writes uploads / visuals / reports into
+  // deepfake-detector/outputs while an analysis runs, which caused an endless
+  // "Reload site?" loop and wiped the results mid-test.
+  //
+  // These patterns keep the Live Server watcher away from backend + generated
+  // files. (Best practice: just open http://localhost:8000 — the backend
+  // serves the UI itself and nothing watches the filesystem.)
+  "liveServer.settings.ignoreFiles": [
+    "**/.vscode/**",
+    "**/outputs/**",
+    "**/venv/**",
+    "**/__pycache__/**",
+    "**/checkpoints/**",
+    "**/data/**",
+    "**/test_images/**",
+    "**/src/**",
+    "**/models/**",
+    "**/*.py",
+    "**/*.pdf",
+    "**/*.log"
+  ]
+}

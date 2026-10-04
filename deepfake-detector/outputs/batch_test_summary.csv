@@ -1,0 +1,12 @@
+filepath,filename,face_detected,verdict,confidence_pct,risk_score,classical_ensemble_prob,cnn_prob
+C:\deepfake-detector\deepfake-detector\test_images\Friendly Indian Portrait-GPT.png,Friendly Indian Portrait-GPT.png,True,AI-GENERATED,79.9,84.9,0.4981,1.0
+C:\deepfake-detector\deepfake-detector\test_images\Gemini_Generated_Image_fkhzzefkhzzefkhz.png,Gemini_Generated_Image_fkhzzefkhzzefkhz.png,True,AI-GENERATED,82.8,87.1,0.5704,0.9991
+C:\deepfake-detector\deepfake-detector\test_images\Screenshot 2026-10-04 190023.png,Screenshot 2026-10-04 190023.png,True,AI-GENERATED,70.1,77.6,0.3655,0.9247
+C:\deepfake-detector\deepfake-detector\test_images\Screenshot 2026-10-04 190029.png,Screenshot 2026-10-04 190029.png,True,AI-GENERATED,64.5,73.4,0.124,0.9919
+C:\deepfake-detector\deepfake-detector\test_images\Screenshot 2026-10-04 190049.png,Screenshot 2026-10-04 190049.png,True,AI-GENERATED,63.4,72.6,0.1364,0.9663
+C:\deepfake-detector\deepfake-detector\test_images\Screenshot 2026-10-04 190056.png,Screenshot 2026-10-04 190056.png,True,AI-GENERATED,70.0,77.5,0.3057,0.9625
+C:\deepfake-detector\deepfake-detector\test_images\WhatsApp Image 2026-10-04 at 7.19.37 PM.jpeg,WhatsApp Image 2026-10-04 at 7.19.37 PM.jpeg,True,REAL,86.3,35.2,0.3307,0.0071
+C:\deepfake-detector\deepfake-detector\test_images\WhatsApp Image 2026-10-04 at 7.20.44 PM.jpeg,WhatsApp Image 2026-10-04 at 7.20.44 PM.jpeg,True,REAL,79.1,40.7,0.4946,0.0181
+C:\deepfake-detector\deepfake-detector\test_images\WhatsApp Image 2026-10-04 at 7.22.35 PM.jpeg,WhatsApp Image 2026-10-04 at 7.22.35 PM.jpeg,True,REAL,93.5,29.9,0.163,0.0002
+C:\deepfake-detector\deepfake-detector\test_images\WhatsApp Image 2026-10-04 at 7.22.36 PM.jpeg,WhatsApp Image 2026-10-04 at 7.22.36 PM.jpeg,True,REAL,92.5,30.6,0.188,0.0001
+C:\deepfake-detector\deepfake-detector\test_images\WhatsApp Image 2026-10-04 at 7.23.21 PM.jpeg,WhatsApp Image 2026-10-04 at 7.23.21 PM.jpeg,True,REAL,84.4,36.7,0.3827,0.0041

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deepfake Detector — AI Image Analysis</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app-shell">
+
+  <!-- ===== HEADER ===== -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-mark">⚡</div>
+        <div>
+          <h1>Deepfake Detector</h1>
+          <p class="brand-sub">Multi-domain AI-generated image detection</p>
+        </div>
+      </div>
+      <div class="status-pill" id="serverStatus">
+        <span class="status-dot" id="statusDot"></span>
+        <span id="statusText">Checking server…</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="app-main">
+
+    <!-- ===== STEP 1: UPLOAD ===== -->
+    <section class="panel upload-panel" id="uploadPanel">
+      <div class="panel-heading">
+        <span class="step-badge">1</span>
+        <div>
+          <h2>Upload Images</h2>
+          <p class="panel-sub">Drop one or several images — faces, scenes, or objects. JPG / PNG / WEBP supported.</p>
+        </div>
+      </div>
+
+      <div class="dropzone" id="dropzone">
+        <input type="file" id="fileInput" accept="image/*" multiple hidden>
+        <div class="dropzone-content">
+          <div class="dropzone-icon">📁</div>
+          <p class="dropzone-title">Drag & drop images here</p>
+          <p class="dropzone-sub">or</p>
+          <button class="btn btn-secondary" id="browseBtn" type="button">Browse Files</button>
+        </div>
+      </div>
+
+      <div class="preview-grid" id="previewGrid"></div>
+
+      <div class="upload-actions" id="uploadActions" style="display:none;">
+        <div class="file-count" id="fileCount"></div>
+        <div class="action-buttons">
+          <button class="btn btn-ghost" id="clearBtn" type="button">Clear All</button>
+          <button class="btn btn-primary" id="analyzeBtn" type="button">
+            <span>Start Testing</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== LOADER ===== -->
+    <section class="panel loader-panel" id="loaderPanel" style="display:none;">
+      <div class="loader-content">
+        <div class="spinner"></div>
+        <h3 id="loaderTitle">Analyzing your images…</h3>
+        <p id="loaderSub" class="loader-sub">Running frequency, noise, and CNN analysis — this can take a few seconds per image.</p>
+        <div class="loader-progress">
+          <div class="loader-progress-bar" id="loaderProgressBar"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== RESULTS ===== -->
+    <section class="panel results-panel" id="resultsPanel" style="display:none;">
+      <div class="panel-heading">
+        <span class="step-badge">2</span>
+        <div>
+          <h2>Analysis Results</h2>
+          <p class="panel-sub" id="resultsSubtitle">—</p>
+        </div>
+      </div>
+
+      <div class="summary-cards" id="summaryCards"></div>
+
+      <div class="table-wrap">
+        <table class="results-table">
+          <thead>
+            <tr>
+              <th>Image</th>
+              <th>Filename</th>
+              <th>Verdict</th>
+              <th>Confidence</th>
+              <th>Risk Score</th>
+              <th>Face Detected</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="resultsTableBody"></tbody>
+        </table>
+      </div>
+
+      <div class="results-footer">
+        <button class="btn btn-ghost" id="newAnalysisBtn" type="button">New Analysis</button>
+        <button class="btn btn-download" id="downloadBtn" type="button">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <path d="M12 3v12m0 0l-4-4m4 4l4-4M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2"/>
+          </svg>
+          <span>Download Full PDF Report</span>
+        </button>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="app-footer">
+    <p>This tool provides an automated statistical analysis. It is not forensic or legal proof of image origin.</p>
+  </footer>
+
+</div>
+
+<!-- ===== DETAIL MODAL ===== -->
+<div class="modal-overlay" id="modalOverlay" style="display:none;">
+  <div class="modal-box">
+    <button class="modal-close" id="modalClose">✕</button>
+    <h3 id="modalFilename">—</h3>
+    <div class="modal-verdict" id="modalVerdict">—</div>
+    <img class="modal-img" id="modalPanelImg" src="" alt="Analysis panel">
+    <div class="modal-row">
+      <img class="modal-img-half" id="modalGaugeImg" src="" alt="Risk gauge">
+      <img class="modal-img-half" id="modalShapImg" src="" alt="SHAP chart">
+    </div>
+  </div>
+</div>
+
+<!-- ===== TOAST ===== -->
+<div class="toast" id="toast"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
